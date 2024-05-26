@@ -33,6 +33,9 @@ Below are the main topics covered in this repository. Each topic includes detail
 - **数据结构与算法** - Fundamental and advanced data structures and algorithms essential for software engineering.
 - **设计模式系列** - Explore design patterns that provide solutions to common software design issues.
 
+### Go Programming
+- **Go基础内容** - Learn the basics of the Go programming language.
+
 ### Additional Resources
 - **Kotlin扩展篇** - Further explore Kotlin with advanced topics and utilities.
 
